@@ -20,9 +20,8 @@
 빠르게 실행이 되도록 만들어져야 된다
 
 
-![[Pasted image 20241212212938.png]]
-
-![[Pasted image 20241212212944.png]]
+<img width = "1080" height = "auto" src = "https://github.com/coffee-yongsucheol/toby-spring-6/blob/amazon7737/images/Pasted%20image%2020241212212938.png?raw=true">
+<img width = "1080" height = "auto" src = "https://github.com/coffee-yongsucheol/toby-spring-6/blob/amazon7737/images/Pasted%20image%2020241212212944.png?raw=true">
 
 왜 이럴까?
 
