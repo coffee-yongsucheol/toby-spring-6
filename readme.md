@@ -1,7 +1,7 @@
 ## 토비 스프링 6를 통한 깨우침
 >
 
-![PaymentService 개발](https://github.com/coffee-yongsucheol/toby-spring-6/blob/amazon7737/PaymentService%20%EA%B0%9C%EB%B0%9C.md)
+[PaymentService 개발](https://github.com/coffee-yongsucheol/toby-spring-6/blob/amazon7737/PaymentService%20%EA%B0%9C%EB%B0%9C.md)
 
 ## 스터디 멤버
 <table>
